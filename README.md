@@ -1,2 +1,2 @@
 # essaye
-try,build,break lazyvim etc..
+try,build,break
